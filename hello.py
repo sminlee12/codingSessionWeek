@@ -1,4 +1,3 @@
-age = input("What is your age?")
-age = int(age)
+time = int(input("time pls"))
 
-print("you re borned in",2026-age)
+print (time//60,"m", time%60, "s",)
